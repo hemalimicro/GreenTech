@@ -10,4 +10,4 @@ Making series of blogs on GreenTech.
 - What is Artificial Intelligence(AI)
 - Using Artifical Intelligence (AI) in reducing water scarcity
 
-For Read Blog post 1.md
+To Read: https://github.com/hemalimicro/GreenTech/blob/main/Blog%20post%201.md
