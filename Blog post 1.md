@@ -7,6 +7,12 @@
 - What is Artificial Intelligence(AI)
 - Using Artifical Intelligence (AI) in reducing water scarcity
 
+### Introduction
+Water is the most valuable natural resource since it is required for human survival and the continuation of life on the planet. Water scarcity refers to a shortage of freshwater supplies to meet demand. It manifests itself in the form of partial or non-fulfillment of indicated demand, economic competition for water quantity or quality, user disputes, irreversible groundwater depletion, and negative environmental repercussions.
+For at least one month of the year, one-third of the world's population (2 billion people) lives in acute water scarcity. Every year, half a billion people around the world are affected by severe water scarcity.
+Water scarcity has affected half of the world's major cities.
+Every day, each human consumes more than 90 gallons of water. In India, thousands of wells, borewells, and ponds have dried up. Every year, more than 3 to 4 million people die as a result of drinking filthy water. Less than 1% of the world's water is fit for human use, and that number is shrinking by the day.
+Moreover, more than a hundred million people migrate as a result of drought and flooding.
 
 #### The Effect of Water Scarcity
 
