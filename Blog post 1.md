@@ -28,3 +28,14 @@ Moreover, more than a hundred million people migrate as a result of drought and 
 
 11. Conflict: With no availability of water, there is struggle in the society for the little or less water remaining, which leads to quarrel, fights and conflict between neigbors,communities and society at large.
 12. 
+
+
+
+
+
+
+
+
+
+#### What is Artificial Intelligence(AI)
+         Artificial Intelligence is a branch of computer science engineering where we try to make machines act wisely just like human beings. Artificial intelligence refers to systems or machines that impersonate human intelligence to perform tasks and can iteratively improve themselves based on the data they collect. It is a wide-ranging branch of computer science concerned with building smart machines capable of performing tasks that typically require human intelligence. AI is a system that combines computer science and Robust Data for problem-solving.
