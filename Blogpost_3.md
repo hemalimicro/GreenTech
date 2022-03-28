@@ -1,10 +1,11 @@
 # Case Study
 
+![image](https://user-images.githubusercontent.com/98547478/160381339-0003966f-4400-49ec-a395-d196b21bc218.png)
+
+
 While finding out solution for reducing water scarcity we have come across some of the real time problems that were actually solved using Artificial Intelligence.
 Not only one country but there are several other countries which have been using AI for reducing the consumption of water and using water efficiently.
 One of such cases was The European Research project NAIADES. It aims to minimize costs for water utilities by developing, implementing and integrating several innovative tools into the water ecosystem.
-![image](https://user-images.githubusercontent.com/98547478/160381233-f61c48cf-8087-4f32-a800-c4ef25f6a43a.png)
-
 Specifically, NAIADES introduces artificial intelligence (AI) technologies into the water ecosystem, leaving the management of this precious resource to robots.
 The Dunărea Brăila Public Utilities Company (CUP Dunărea Brăila) works in partnership with the software company SIMAVI to digitize the drinking water distribution network in the Radu Negru neighborhood.
 SIMAVI offers this pilot hardware and software support for:
