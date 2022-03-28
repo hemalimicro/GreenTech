@@ -1,5 +1,6 @@
-# GreenTech
-Making series of blogs on GreenTech.
+# Team EverGreen
+**Dev to Blog Series**
+We are committed to Making series of blogs on Technologies that can be used to solve Green Problems.
 
 # Blog Post 1
 ## **REDUCING WATER SCARCITY USING ARTIFICIAL INTELLIGENCE(AI)**
