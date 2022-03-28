@@ -16,3 +16,6 @@ SIMAVI offers this pilot hardware and software support for:
 At the same time, SIMAVI provides weather data for the city of Brăila, to help calculate water consumption in certain sectors.
 
 SIMAVI has extensive experience in projects developed for European Union organizations, the European Commission and the Council of Europe, its team of specialists being involved in European projects for more than ten years.
+
+
+#### References: https://www.simavi.ro/en/node/45
