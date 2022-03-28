@@ -1,3 +1,5 @@
+### Using AI to solve Water Scarcity
+
 Water Scarcity can be solved using Artifical Intelligent. One of the ways to solve this problem is using data. Instead of humans trying to figure out with their spreadsheets how do we know route and plan this whole thing we can use data analytics to optimally schedule everything more efficient it's much faster and they're just way more comfortable.
 
 Steps involved:
