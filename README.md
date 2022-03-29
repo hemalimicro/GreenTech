@@ -18,12 +18,20 @@ WE ARE COMMITTED TO MAKING SERIES OF BLOG ON TECHNOLOGIES THAT  CAN BE USED TO S
 To Read: https://github.com/hemalimicro/GreenTech/blob/main/Blog%20post%201.md
 
 #
+
 ### Blog Post 2
 
 #### Content
--What is Artificial Intelligence(AI)
--Using Artifical Intelligence (AI) in reducing water scarcity
 
-To Read:https://github.com/hemalimicro/GreenTech/blob/main/Blogpost_2.md
+-  What is Artificial Intelligence(AI)
+ - Using AI to solve Water Scarcity
+    - Steps involved
+   
+To Read: https://github.com/hemalimicro/GreenTech/blob/main/Blogpost_2.md
 
+#
 
+### Blog Post 3
+
+#### Content
+- Case Study of
