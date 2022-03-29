@@ -3,7 +3,7 @@
 
 **DEV TO BLOG SERIES**
 
-**WE ARE COMMITTED TO MAKING SERIES OF BLOG THAT CAN BE USED TO SOLVE ENVIRONMENTAL PROBLEMS.**
+**WE ARE COMMITTED TO MAKING SERIES OF BLOG ON TECHNOLOGIES THAT  CAN BE USED TO SOLVE ENVIRONMENTAL PROBLEMS.**
 
 #
 
@@ -24,9 +24,6 @@ To Read: https://github.com/hemalimicro/GreenTech/blob/main/Blog%20post%201.md
 ## **USING ARTIFICIAL INTELLIGENCE(AI)**
 
 ### Contents
-- Introduction
-- How water scarcity can affect us in the near future
-- What is Artificial Intelligence(AI)
-- Using Artifical Intelligence (AI) in reducing water scarcity
+
 
 To Read: https://github.com/hemalimicro/GreenTech/blob/main/Blog%20post%201.md
