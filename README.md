@@ -26,4 +26,4 @@ To Read: https://github.com/hemalimicro/GreenTech/blob/main/Blog%20post%201.md
 ### Contents
 
 
-To Read:
+To Read:https://github.com/hemalimicro/GreenTech/blob/main/Blogpost_2.md
