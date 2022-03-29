@@ -15,7 +15,8 @@ WE ARE COMMITTED TO MAKING SERIES OF BLOG ON TECHNOLOGIES THAT  CAN BE USED TO S
 - Introduction
 - How water scarcity can affect us in the near future
 
-To Read: https://github.com/hemalimicro/GreenTech/blob/main/Blog%20post%201.md
+[Read More](https://github.com/hemalimicro/GreenTech/blob/main/Blog%20post%201.md)
+
 
 #
 
@@ -26,8 +27,9 @@ To Read: https://github.com/hemalimicro/GreenTech/blob/main/Blog%20post%201.md
 -  What is Artificial Intelligence(AI)
  - Using AI to solve Water Scarcity
     - Steps involved
-   
-To Read: https://github.com/hemalimicro/GreenTech/blob/main/Blogpost_2.md
+
+
+ [Read More](https://github.com/hemalimicro/GreenTech/blob/main/Blogpost_2.md)  
 
 #
 
