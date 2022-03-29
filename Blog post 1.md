@@ -4,9 +4,7 @@
 
 - Introduction
 - How water scarcity can affect us in the near future
-- What is Artificial Intelligence(AI)
-- Using Artifical Intelligence (AI) in reducing water scarcity
-
+- 
 ### Introduction
 Water is the most valuable natural resource since it is required for human survival and the continuation of life on the planet. Water scarcity refers to a shortage of freshwater supplies to meet demand. It manifests itself in the form of partial or non-fulfillment of indicated demand, economic competition for water quantity or quality, user disputes, irreversible groundwater depletion, and negative environmental repercussions.
 For at least one month of the year, one-third of the world's population (2 billion people) lives in acute water scarcity. Every year, half a billion people around the world are affected by severe water scarcity.
