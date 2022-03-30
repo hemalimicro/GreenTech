@@ -36,4 +36,17 @@ WE ARE COMMITTED TO MAKING SERIES OF BLOG ON TECHNOLOGIES THAT  CAN BE USED TO S
 ### Blog Post 3
 
 #### Content
-- Case Study of
+- Case Study 
+
+ [Read More](https://github.com/hemalimicro/GreenTech/blob/main/Blogpost_3.md)  
+
+
+#
+
+### Blog Post 4
+
+#### Content
+- Other Ways we can tackle Water Scarcity
+- Summary
+
+[Read More](https://github.com/hemalimicro/GreenTech/blob/main/Summary.md)
