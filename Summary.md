@@ -1,12 +1,16 @@
 
 # Other ways of solving Water Scarcity
  
-1. Stopping land pollution
-2. Reduce the overuse of water
-3. 
+1. Conservation of water through efficient water management infrastructure
+2. Through the use and recycling of rainwater which in return eases the use of groundwater
+3. Addressing land pollution to maintain a clean and healthy water source, safe for drinking
+4. Reducing our water footprint and overuse of water
+5. Creating awareness and education on the consumption and use of water
 
 
 # Summary
 
+Water shortages has a great impact on human health, socio-economic development, and the environment.
 Water Scarcity is a serious issue in many part of the world and will be worse, if preventitive measures are not put in place to tackle this problem.
-Efficient solutions using technology are being researched and developed everyday to make water assesible, clean and healthy.
+
+Efficient solutions using technology are constantly being researched and developed everyday to make water accessible, clean and healthy. We can help by creating more awareness and reducing our water footprint, for conservation of water for our present and future Generation.
