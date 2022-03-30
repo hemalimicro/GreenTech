@@ -1,5 +1,5 @@
 
-# Other ways of solving water scarcity
+# Other ways of solving Water Scarcity
  
 1. Stopping land pollution
 2. Reduce the overuse of water
