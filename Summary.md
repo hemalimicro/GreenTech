@@ -3,9 +3,12 @@
  
 1. Conservation of water through efficient water management infrastructure
 2. Through the use and recycling of rainwater which in return eases the use of groundwater
-3. Addressing land pollution to maintain a clean and healthy water source, safe for drinking
-4. Reducing our water footprint and overuse of water
-5. Creating awareness and education on the consumption and use of water
+3. By recycling used water for our crops and livestock farming
+4. Addressing land pollution to maintain a clean and healthy water source, safe for drinking
+5. Reducing our water footprint and overuse of water
+6. Creating awareness and education on the consumption and use of water
+7. Advocating on global action on increasing Quality water
+8. Creating more awareness on conserving and proper utilization of groundwater
 
 
 # Summary
