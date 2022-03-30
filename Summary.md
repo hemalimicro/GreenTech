@@ -13,7 +13,9 @@
 
 # Summary
 
-Water shortages has a great impact on human health, socio-economic development, and the environment.
-Water Scarcity is a serious issue in many part of the world and will be worse, if preventitive measures are not put in place to tackle this problem.
+700 million people worldwide could be displaced by intense water scarcity by 2030. (Global Water Institute, 2013)
 
-Efficient solutions using technology are constantly being researched and developed everyday to make water accessible, clean and healthy. We can help by creating more awareness and reducing our water footprint, for conservation of water for our present and future Generation.
+Water shortage has a great impact on human health, socio-economic development, and the environment.
+It is a serious issue in many part of the world and will be worse, if preventitive measures are not put in place to tackle this problem.
+
+Efficient solutions using technology are constantly being researched and developed everyday to make water accessible, clean and healthy. We can help by creating more awareness, advocating and reducing our water footprint, for conservation and efficient use of water for our present and future Generation.
