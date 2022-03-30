@@ -19,13 +19,13 @@ Moreover, more than a hundred million people migrate as a result of drought and 
 
 1. Lack of Access to Drinking Water: Water is needed for our everyday consumption and with little or no availability of water, access to clean and healthy water is not possible, which brings about starvation in the society.
 
-3. Hunger: Water plays a vital role in our food consumption and intake of water is healthy for the body and water scarcity can bring out famine and hunger in the society,which leads to malnourishment of everyone.
+3. Hunger: Hunger is one of the most serious effect of water scarcity. Water plays a vital role in our food production through crop and livestock farming, when there is shortage in production, it can lead to famine and hunger in the society. Intake of water is healthy for the body and when not taken in the right consumption and amount can lead to malnourishment of everyone.
 
 5. Lack of Education: Water is neccessary for children to use to bath and get ready for school, wash their uniforms and drink when thirsty.
 
 7. Poverty: Without Water, the industries such as manufacturing, production, transportation, healthcare etc can not function which in return reduces the productivity and GDP of the society and this leads to poverty. 
 
-9. Sanitation: Water is needed to tidy and clean up our household and environment, when there is no water, everywhere becomes dirty, which is unhealthy and can bring about sickness.
+9. Sanitation: Lack of water can cause alot of disease, because people tend to drink and store unclean water, to avoid starvation.  Water is needed to tidy and clean up our household and environment, when there is no water, everywhere becomes dirty, which is unhealthy and can bring about sickness.
 
 9. Migration : This becomes the norm in a society with water scarcity, where families migrate to places where they can have full access to water. Migration brings about undevelopment in that particular society.
 
